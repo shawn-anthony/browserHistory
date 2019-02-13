@@ -7,9 +7,16 @@ body {
 
 h1, h2 {
   font-family: 'Oswald', sans-serif;
+  float: top;
 }
 
 img {
   float: left;
   margin: 10px;
 }
+
+div {
+  column-count: 3;
+  column-gap: 20px;
+}
+

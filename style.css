@@ -1,22 +1,6 @@
 body {
-  background-color: Ivory;
-  margin: 10px 50px 10px 50px;
-  color: darkblue;
-  font-family:'Open Sans', sans-serif;
+  margin: 50px !important;
 }
-
 h1, h2 {
-  font-family: 'Oswald', sans-serif;
-  float: top;
+  color: #4183c4;
 }
-
-img {
-  float: left;
-  margin: 10px;
-}
-
-div {
-  column-count: 3;
-  column-gap: 20px;
-}
-
